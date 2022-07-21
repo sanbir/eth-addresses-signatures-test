@@ -1,0 +1,13 @@
+{
+  "name": "eth-addresses-signatures-test",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "generate-address": "node generate-address.js",
+    "sign-message": "node sign-message.js"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.1",
+    "ethers": "^5.6.9"
+  }
+}
